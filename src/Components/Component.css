@@ -1,0 +1,44 @@
+*{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+}
+.screen{
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: end; 
+}
+.bar{
+    width: 60vw;
+    height: 50px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+.btn{
+    width: 12%;
+    height: 70%;
+    border-radius: 20px;
+    border: none;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: greenyellow;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: skyblue;
+}
